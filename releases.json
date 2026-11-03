@@ -1,0 +1,9 @@
+[
+ {
+  "version": "6.38",
+  "build": 123,
+  "notes": "Admin area, problem reports, update banner, server-side security ready",
+  "date": "3 Nov 2026",
+  "sha": "a7041846e3a0a022f85e7931c9adfd56f0e493fd"
+ }
+]
