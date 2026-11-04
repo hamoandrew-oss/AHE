@@ -1,5 +1,12 @@
 [
  {
+  "version": "6.39",
+  "build": 125,
+  "notes": "Everything files into Files: linked register documents, File a copy on exports, money documents hidden",
+  "date": "4 Nov 2026",
+  "sha": "5d47a78192da829e0d1150da8fd8489f3f4247c3"
+ },
+ {
   "version": "6.38.1",
   "build": 124,
   "notes": "Import an Activity Plan register into RAMS",
