@@ -1,5 +1,12 @@
 [
  {
+  "version": "6.39.2",
+  "build": 127,
+  "notes": "RAMS open in a slide-out panel like ITPs",
+  "date": "4 Nov 2026",
+  "sha": "a309e83482b0f4eadfa1b01f7d8b87ac2a660361"
+ },
+ {
   "version": "6.39.1",
   "build": 126,
   "notes": "Tidier RAMS register toolbar",
