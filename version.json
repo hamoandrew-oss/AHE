@@ -1,1 +1,1 @@
-{"version": "6.38", "build": 123, "notes": "Admin area, problem reports, update banner, server-side security ready", "rollback": false}
+{"version": "6.38.1", "build": 124, "notes": "Import an Activity Plan register into RAMS", "rollback": false}
