@@ -1,5 +1,12 @@
 [
  {
+  "version": "6.39.1",
+  "build": 126,
+  "notes": "Tidier RAMS register toolbar",
+  "date": "4 Nov 2026",
+  "sha": "27f57054a5ea2e65070b3767dd8f53a035a478d3"
+ },
+ {
   "version": "6.39",
   "build": 125,
   "notes": "Everything files into Files: linked register documents, File a copy on exports, money documents hidden",
