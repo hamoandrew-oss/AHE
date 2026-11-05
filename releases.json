@@ -1,5 +1,12 @@
 [
  {
+  "version": "6.40",
+  "build": 128,
+  "notes": "Progress notes on checksheets",
+  "date": "5 Nov 2026",
+  "sha": "ff3b682ff27c99b49c5664e39dbc7f7b93b0e0b5"
+ },
+ {
   "version": "6.39.2",
   "build": 127,
   "notes": "RAMS open in a slide-out panel like ITPs",
