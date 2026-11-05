@@ -1,5 +1,12 @@
 [
  {
+  "version": "6.41",
+  "build": 129,
+  "notes": "Search, sort and select across registers; File a copy on older reports",
+  "date": "5 Nov 2026",
+  "sha": "45b3d2ad7ac05f468bcbff6a5028815ffdb0f593"
+ },
+ {
   "version": "6.40",
   "build": 128,
   "notes": "Progress notes on checksheets",
