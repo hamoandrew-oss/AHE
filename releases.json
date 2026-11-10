@@ -1,5 +1,12 @@
 [
  {
+  "version": "6.41.1",
+  "build": 130,
+  "notes": "Checksheet progress PDF",
+  "date": "10 Nov 2026",
+  "sha": "9c9fd766a2685244f06842a4bc2bedf3df3bc5b8"
+ },
+ {
   "version": "6.41",
   "build": 129,
   "notes": "Search, sort and select across registers; File a copy on older reports",
