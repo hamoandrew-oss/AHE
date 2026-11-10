@@ -1,5 +1,12 @@
 [
  {
+  "version": "6.41.3",
+  "build": 132,
+  "notes": "Checksheet progress uses the same numbers as the app overview",
+  "date": "10 Nov 2026",
+  "sha": "pending"
+ },
+ {
   "version": "6.41.2",
   "build": 131,
   "notes": "Checksheet progress: counts each sheet once, full names, every sheet listed",
