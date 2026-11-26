@@ -1,5 +1,12 @@
 [
  {
+  "version": "6.41.4",
+  "build": 133,
+  "notes": "Sort the checksheet list by name, date, ACC number, status or location",
+  "date": "26 Nov 2026",
+  "sha": "pending"
+ },
+ {
   "version": "6.41.3",
   "build": 132,
   "notes": "Checksheet progress uses the same numbers as the app overview",
