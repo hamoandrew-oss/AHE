@@ -1,1 +1,1 @@
-{"version": "6.41.4", "build": 133, "notes": "Sort the checksheet list by name, date, ACC number, status or location", "rollback": false}
+{"version": "6.42.0", "build": 134, "notes": "Full-screen programme planner: grouped Gantt, board view, links, blockers, publish the week and plan complete", "rollback": false}
