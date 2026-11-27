@@ -1,1 +1,1 @@
-{"version": "6.42.1", "build": 135, "notes": "The new planner now replaces the programme on the job page too, with a Full screen button", "rollback": false}
+{"version": "6.42.2", "build": 136, "notes": "Take-off import reads the Gridline template: Qty column respected, short tabs imported", "rollback": false}
