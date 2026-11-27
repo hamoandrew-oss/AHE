@@ -1,1 +1,1 @@
-{"version": "6.42.0", "build": 134, "notes": "Full-screen programme planner: grouped Gantt, board view, links, blockers, publish the week and plan complete", "rollback": false}
+{"version": "6.42.1", "build": 135, "notes": "The new planner now replaces the programme on the job page too, with a Full screen button", "rollback": false}
